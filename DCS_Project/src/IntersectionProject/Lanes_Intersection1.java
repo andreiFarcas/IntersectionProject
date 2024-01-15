@@ -115,16 +115,15 @@ public class Lanes_Intersection1 {
 
         DataCarQueue p15 = new DataCarQueue();
         p15.Value.Size = 3;
+        //p15.SetValue(1);
         p15.SetName("P_I1_o2");
         pn.PlaceList.add(p15);
 
-        DataCar p16 = new DataCar();
-        p16.SetName("P_o2Exit");
-        pn.PlaceList.add(p16);
+        DataTransfer p16 = new DataTransfer();
+        p16.SetName("P_I1_o2Exit");
+        p16.Value = new TransferOperation("localhost", "1080", "P_I2_a2");
 
-        DataCar p17 = new DataCar(); //p17.Printable = false;
-        p17.SetName("P_I1_o2Next");
-        pn.PlaceList.add(p17);
+        pn.PlaceList.add(p16);
 
         // ---------------------------------OP-part----------------------------------------
 
@@ -142,11 +141,15 @@ public class Lanes_Intersection1 {
 
 
         //Implementing OP3_I1 as an output channel connected to the controller
-        DataTransfer OP3_I1 = new DataTransfer();
-        OP3_I1.SetName("OP3_I1");
+        DataTransfer OP3_I1 = new DataTransfer();OP3_I1.SetName("OP3_I1");
         OP3_I1.Value = new TransferOperation("localhost", "1082", "i1");
         pn.PlaceList.add(OP3_I1);
 
+        //Implementing P_I1_O2Next as an output channel connected to intersection 2
+        DataTransfer P_I1_o2Next = new DataTransfer();
+        OP3_I1.SetName("P_I1_o2Next");
+        OP3_I1.Value = new TransferOperation("localhost", "1082", "P_I2_a2");
+        pn.PlaceList.add(P_I1_o2Next);
 
         // -------------------------------------------------------------------------------------------
         // --------------------------------Intersection-----------------------------------------------
@@ -179,7 +182,7 @@ public class Lanes_Intersection1 {
 
         GuardMapping grdT111 = new GuardMapping(); // we named it in that way because we used grdT11 for the "T_I1_i2" transition
         grdT111.condition= T1Ct3;
-        grdT111.Activations.add(new Activation(t1, "full", TransitionOperation.Copy, "OP1_I1"));
+        grdT111.Activations.add(new Activation(t1, "full", TransitionOperation.SendOverNetwork, "OP1_I1"));
         grdT111.Activations.add(new Activation(t1, "P_I1_a1", TransitionOperation.Copy, "P_I1_a1"));
         t1.GuardMappingList.add(grdT111);
 
@@ -206,7 +209,7 @@ public class Lanes_Intersection1 {
 //		t2.Delay = 3;
         pn.Transitions.add(t2);
 
-        // buttom part
+        // bottom part
         // T3 ------------------------------------------------
         PetriTransition t3 = new PetriTransition(pn);
         t3.TransitionName = "T_I1_u2";
@@ -329,7 +332,7 @@ public class Lanes_Intersection1 {
 
         GuardMapping grdT8 = new GuardMapping();
         grdT8.condition = T8Ct1;
-        grdT8.Activations.add(new Activation(t8, "P_I1_o2", TransitionOperation.PopElementWithoutTarget, "P_I1_o2Exit"));
+        grdT8.Activations.add(new Activation(t8, "P_I1_o2", TransitionOperation.PopElementWithTarget, "P_I1_o2Exit"));
         t8.GuardMappingList.add(grdT8);
 
         t8.Delay = 0;
@@ -438,16 +441,15 @@ public class Lanes_Intersection1 {
         PetriTransition t14 = new PetriTransition(pn);
         t14.TransitionName = "T_I1_g2Next";
         t14.InputPlaceName.add("P_I1_o2Exit");
-        //t14.InputPlaceName.add("P_I1_o2Next");  should i add this transition?
 
         Condition T14Ct1 = new Condition(t14, "P_I1_o2Exit", TransitionCondition.HaveCarForMe);
-        Condition T14Ct2 = new Condition(t14, "P_I1_o2Next", TransitionCondition.CanAddCars);
-        T14Ct1.SetNextCondition(LogicConnector.AND, T14Ct2);
+        //Condition T14Ct2 = new Condition(t14, "P_I1_o2Next", TransitionCondition.CanAddCars);
+        //T14Ct1.SetNextCondition(LogicConnector.AND, T14Ct2);
 
         GuardMapping grdT14 = new GuardMapping();
         grdT14.condition = T14Ct1;
-        grdT14.Activations.add(new Activation(t14, "P_I1_o2Exit", TransitionOperation.PopElementWithTargetToQueue, "P_I1_o2Next"));
-        t14.GuardMappingList.add(grdT12);
+        grdT14.Activations.add(new Activation(t14, "P_I1_o2Exit", TransitionOperation.SendOverNetwork, "P_I2_a2"));
+        t14.GuardMappingList.add(grdT14);
 
         t14.Delay = 0;
         pn.Transitions.add(t14);

@@ -1,0 +1,355 @@
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+Paused....
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(yellow)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(green)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(yellow)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(green)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(red)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(red)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I2_TL1
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+ ExecutionList []
+[T_I2_u2 conditions are false]0[T_I2_e2 conditions are false]1[T_I2_u1 conditions are false]0[T_I2_e1 conditions are false]0[T_I2_g2Exit conditions are false]0[T_I2_g2Next conditions are false]0[T_I2_g3Exit conditions are false]0[T_I2_g4Exit conditions are false]0[T_I2_i2 conditions are false]0[T_I2_g2 conditions are false]0[T_I2_i1 conditions are false]0[T_I2_g3 conditions are false]0[T_I2_g4 conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I2_a2(Null)  P_I2_x2|()|  P_I2_TL2(Null)  P_I2_b2(Null)  P_I2_a1(Null)  P_I2_o2|()|  P_I2_TL1(Null)  P_I2_b1(Null)  |()|  P_I2_o2Exit(Null)  P_I2_o2Next(Null)  P_I1_o3|()|  P_I2_o3Exit(Null)  P_I2_o4|()|  P_I2_o4Exit(Null)  OP1_I2(localhost-1081-i1)  OP2_I2(localhost-1081-i2)  P_I2|()|]
+####################  Lanes Intersection2 Started  #####################
+Waiting For Commands over this port:1080
