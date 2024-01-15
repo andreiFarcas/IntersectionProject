@@ -88,10 +88,6 @@ public class Lanes_Intersection2 {
         p10.SetName("P_I2_o2Exit");
         pn.PlaceList.add(p10);
 
-        DataCar p11 = new DataCar();
-        p11.SetName("P_I2_o2Next");
-        pn.PlaceList.add(p11);
-
         // ----------------------------------------------------------------------------
         // ----------------------------Exit lane 2-------------------------------------
         // ----------------------------------------------------------------------------
@@ -131,6 +127,12 @@ public class Lanes_Intersection2 {
         OP2_I2.SetName("OP2_I2");
         OP2_I2.Value = new TransferOperation("localhost", "1081", "i2");
         pn.PlaceList.add(OP2_I2);
+
+        //Implementing P_I2_o2Next as an output channel connected to intersection 1se
+        DataTransfer P_I2_o2Next = new DataTransfer();
+        P_I2_o2Next.SetName("P_I2_o2Next");
+        P_I2_o2Next.Value = new TransferOperation("localhost", "1082", "P_I1_a2");
+        pn.PlaceList.add(P_I2_o2Next);
 
         // -------------------------------------------------------------------------------------------
         // --------------------------------Intersection-----------------------------------------------
@@ -270,6 +272,8 @@ public class Lanes_Intersection2 {
         GuardMapping grdT6 = new GuardMapping();
         grdT6.condition = T6Ct1;
         grdT6.Activations.add(new Activation(t6, "P_I2_o2Exit", TransitionOperation.PopElementWithoutTarget, "P_I2_o2Next"));
+        grdT6.Activations.add(new Activation(t6, "P_I2_o2Next", TransitionOperation.SendOverNetwork, "P_I1_a2"));
+
         t6.GuardMappingList.add(grdT6);
 
         t6.Delay = 0;
@@ -342,6 +346,7 @@ public class Lanes_Intersection2 {
         GuardMapping grdT10 = new GuardMapping();
         grdT10.condition = T10Ct1;
         grdT10.Activations.add(new Activation(t10, "P_I2", TransitionOperation.PopElementWithTargetToQueue, "P_I2_o2"));
+
         t10.GuardMappingList.add(grdT10);
 
         t10.Delay = 0;

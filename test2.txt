@@ -1,0 +1,466 @@
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(green)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(green)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(green)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(green)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(green)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(green)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(green)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(green)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(yellow)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(green)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL2
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,NULL)|  P_I1_TL1(red)  P_I1_b1(mercedes
+-bn04anb)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(yellow)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(yellow)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL2
+Continued....
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+Paused....
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)]]
+[T_I1_u1 conditions are false]0[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim),P_I1(audi
+-bn05cia))|]
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)],T_I1_i1 Temp Marking [P_I1_b1(audi
+-bn05cia)]]
+[T_I1_u1 conditions are false]0[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,NULL,P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(green)  P_I1_b1(audi
+-bn05cia)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim))|]
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)]]
+[T_I1_u1 conditions are false]0[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(yellow)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss),P_I1(toyota
+-bn04nim))|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)],T_I1_i1 Temp Marking [P_I1_b1(toyota
+-bn04nim)]]
+[T_I1_u1 conditions are false]0[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(NULL,P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(green)  P_I1_b1(toyota
+-bn04nim)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss))|]
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)]]
+[T_I1_u1 conditions are false]0[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(toyota
+-bn04nim),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|(P_I1(vw
+-bn05mss))|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)],T_I1_e1 Temp Marking [P_I1_TL1(green)],T_I1_i1 Temp Marking [P_I1_b1(vw
+-bn05mss)]]
+[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(toyota
+-bn04nim)  P_I1_x1|(NULL,P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(green)  P_I1_b1(vw
+-bn05mss)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_e1 Temp Marking [P_I1_TL1(green)],T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)]]
+[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(toyota
+-bn04nim)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)],T_I1_e1 Temp Marking [P_I1_TL1(green)]]
+[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(toyota
+-bn04nim)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(green)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)]]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(toyota
+-bn04nim)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(red)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)]]
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(toyota
+-bn04nim)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(red)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(full)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(toyota
+-bn04nim)]]
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_a1
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(red)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(red)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(red)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(red)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(red)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL3
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL2
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_TL1
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia),P_I1_x1(mercedes
+-bn04anb))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(mercedes
+-bn04anb)]]
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(mercedes
+-bn04anb)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_a1
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss),P_I1_x1(audi
+-bn05cia))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(audi
+-bn05cia)]]
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(audi
+-bn05cia)  P_I1_x1|(P_I1_x1(vw
+-bn05mss))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_a1
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|(P_I1_x1(vw
+-bn05mss))|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList [T_I1_u1 Temp Marking [P_I1_a1(vw
+-bn05mss)]]
+[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(vw
+-bn05mss)  P_I1_x1|()|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for P_I1_a1
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|()|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+ ExecutionList []
+[T_I1_u1 conditions are false]0[T_I1_e1 conditions are false]1[T_I1_u2 conditions are false]0[T_I1_e2 conditions are false]0[T_I1_u3 conditions are false]0[T_I1_e3 conditions are false]0[T_I1_g1Exit conditions are false]0[T_I1_g2Exit conditions are false]0[T_I1_i1 conditions are false]0[T_I1_g1 conditions are false]0[T_I1_i2 conditions are false]0[T_I1_g2 conditions are false]0[T_I1_i3 conditions are false]0[T_I1_g2Next conditions are false]0
+ ConstantPlaceList [full(full)]
+ PlaceList [P_I1_a1(Null)  P_I1_x1|()|  P_I1_TL1(Null)  P_I1_b1(Null)  P_I1_a2(Null)  P_I1_x2|()|  P_I1_TL2(Null)  P_I1_b2(Null)  P_I1_a3(Null)  P_I1_x3|()|  P_I1_TL3(Null)  P_I1_b3(Null)  P_I1_o1|()|  P_o1Exit(Null)  P_I1_o2|()|  P_o2Exit(Null)  P_I1_o2Next(Null)  OP1_I1(localhost-1082-i2)  OP2_I1(localhost-1082-i2)  OP3_I1(localhost-1082-i1)  P_I1|()|]
+####################  Lanes Intersection1 Started  #####################
+Waiting For Commands over this port:1083
